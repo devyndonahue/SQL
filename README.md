@@ -1,2 +1,2 @@
 # SQL
-
+I first analyzed and organized the data by computing the average amount that a contributor made for each type of occupation using SQl queries. I then found the average total amount for each occupation type. I then looked at the party affiliation of the donors and found that most were democrats. I used a permutation test to test if there is a real difference in donations between Clinton and Sanders or if it is just due to chance. I assumed the null hypothesis that the difference was just due to chance was true and computed the test statistic. I calculated the p-value from the observed test statistics and since the p-value was so high, I failed to reject the null that the difference was just due to chance.
